@@ -1,0 +1,10 @@
+{
+	"Countries": [
+		{
+			"Name":"USA",
+			"Code":"USD",
+			"UrlCode":"us",
+			"lang":"en"
+		}
+	]
+}
